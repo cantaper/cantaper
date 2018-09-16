@@ -9,8 +9,8 @@ layout: home
 ---
 
 ![](https://kavaban.ga/data/_uploaded/image/logo.png)  
-Ka~~w~~abanga и добро пожаловать. Забрел сюда случайно? Окей, я постараюсь помочь тебе.
+Kawabanga и добро пожаловать. Забрел сюда случайно? Окей, я постараюсь помочь тебе.
 
-### [NotifyBot](https://kavaban.ga/notifybot)
+## [NotifyBot](https://kavaban.ga/notifybot)
 
 Discord-бот с уведомлениями о начале трансляций twitch (что вполне обычно), goodgame (что весьма необычно) и peka2.tv (что совсем уж странно).
