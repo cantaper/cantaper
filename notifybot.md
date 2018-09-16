@@ -5,7 +5,9 @@ permalink: /notifybot/
 ---
 
 NotifyBot - discord-бот с уведомлениями о начале трансляций twitch (что вполне обычно), goodgame (что весьма необычно) и peka2.tv (что совсем уж странно).
+
 **Ссылка для приглашения бота на свой сервер: [NotifyBot](https://discordapp.com/oauth2/authorize?scope=bot&client_id=271980523809669122&permissions=67357696)**
+
 Выглядит это безобразие примерно так:
 ![](https://kavaban.ga/data/_uploaded/image/notifybot-twitch.png)
 
