@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Контакты
+- **Email:**  exileer[at]gmail.com
+- **Skype:**  exileer
+- **Discord:**  [Орден Котика](https://discord.gg/c8M2rpU)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+### Поддержка
+Обычно тут пишут, что вся поддержка пойдет на развитие чего-то, но на самом деле конечно же нет.
+- [Яндекс.Деньги](https://money.yandex.ru/to/410011204807980)
+- [QIWI](https://qiwi.me/kavaban_ga)
