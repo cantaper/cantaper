@@ -1,4 +1,4 @@
-## Some heads
+## HEAD
 
 ### Bug Fixes
 
