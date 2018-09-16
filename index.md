@@ -10,5 +10,5 @@ layout: home
 
 Kawabanga и добро пожаловать. Забрел сюда случайно? Окей, я постараюсь помочь тебе.
 
-### [NotifyBot](https://kavaban.ga/notifybot)
+## [NotifyBot](https://kavaban.ga/notifybot)
 Discord-бот с уведомлениями о начале трансляций twitch (что вполне обычно), goodgame (что весьма необычно) и peka2.tv (что совсем уж странно).

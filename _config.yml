@@ -2,7 +2,6 @@ title: Kavaban.ga
 author: elix
 email: exileer[at]gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Kawabanga!
 
 # social links
 # twitter_username: jekyllrb
@@ -25,7 +24,7 @@ description: > # this means to ignore newlines until "twitter_username:"
 #   instance: example.com
 
 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
